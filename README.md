@@ -1,1 +1,1 @@
-# Laba7-psp
+# Laba-7-psp
